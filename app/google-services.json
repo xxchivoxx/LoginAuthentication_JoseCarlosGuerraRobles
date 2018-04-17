@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "150551154354",
+    "firebase_url": "https://loginauthentication-3e18c.firebaseio.com",
+    "project_id": "loginauthentication-3e18c",
+    "storage_bucket": "loginauthentication-3e18c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150551154354:android:027e5b408bb68f55",
+        "android_client_info": {
+          "package_name": "com.example.carlos.loginauthentication_josecarlosguerrarobles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150551154354-2tu3f5lflb950bq81do8u1mib96bdvip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpd8m8Y8VfFSQrTjUODLL8UsvAOgjz8hU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
